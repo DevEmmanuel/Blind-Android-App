@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "31607019108",
+    "firebase_url": "https://adaa-45b17.firebaseio.com",
+    "project_id": "adaa-45b17",
+    "storage_bucket": "adaa-45b17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31607019108:android:98a5e918e08736a1",
+        "android_client_info": {
+          "package_name": "com.perchtech.humraz.ada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31607019108-88s1hoo2t0tphpae17nuip6k5qje2b99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmR9ADALgwQZMxuUCwfBa4w8jEiDQqDVQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31607019108:android:c380e9e3876df2e3",
+        "android_client_info": {
+          "package_name": "com.perchtech.humraz.ambulance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31607019108-88s1hoo2t0tphpae17nuip6k5qje2b99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmR9ADALgwQZMxuUCwfBa4w8jEiDQqDVQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31607019108:android:b659fa56f73c80b6",
+        "android_client_info": {
+          "package_name": "com.perchtech.humraz.agriculture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31607019108-88s1hoo2t0tphpae17nuip6k5qje2b99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmR9ADALgwQZMxuUCwfBa4w8jEiDQqDVQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31607019108:android:f57bf9818a18881d",
+        "android_client_info": {
+          "package_name": "com.perchtech.humraz.blind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31607019108-88s1hoo2t0tphpae17nuip6k5qje2b99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmR9ADALgwQZMxuUCwfBa4w8jEiDQqDVQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
